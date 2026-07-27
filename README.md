@@ -1,139 +1,74 @@
- # Olá, eu sou Matheus Ribeiro 👋
+<h1 align="center">Matheus Ribeiro</h1>
 
-## 🚀 Estudante de Engenharia de Software | Backend Developer em Formação
+<p align="center">
+  <strong>Backend Developer em formação</strong> · Estudante de Engenharia de Software<br>
+  Java &amp; Spring Boot · Automação com Python · Sistemas embarcados
+</p>
 
-Sou um desenvolvedor em formação com foco em **Backend**, apaixonado por construir soluções que resolvem problemas reais por meio de **automação, integração de sistemas e desenvolvimento de APIs**.
-
-Atualmente estudo **Java + Spring Boot**, desenvolvendo **APIs RESTful**, utilizando **JPA/Hibernate**, bancos de dados relacionais e arquitetura de software. Também utilizo **Python** para automações, manipulação de dados, integração com APIs e otimização de processos.
-
----
-
-## 🧠 Sobre mim
-
-Acredito que tecnologia de qualidade é aquela que **economiza tempo, reduz erros e melhora processos**.
-
-### ☕ Backend
-
-- Java
-- Spring Boot
-- APIs RESTful
-- JPA / Hibernate
-- SQL
-- SOLID
-- Arquitetura em Camadas
-
-### 🐍 Automação
-
-- Python
-- Pandas
-- Selenium
-- OCR
-- Integração com APIs
-- IA aplicada à automação
+<p align="center">
+  <a href="https://matribeiro.tech">🌎 Portfólio</a> •
+  <a href="https://lypsyos.com">🏢 Lypsyos</a> •
+  <a href="https://github.com/zuckalez0-oss">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/matheus-ribeiro-bbb894237">💼 LinkedIn</a> •
+  <a href="mailto:matheusrds@lypsyos.com">📧 E-mail</a>
+</p>
 
 ---
 
-# 🛠 Projetos em Destaque
+Construo **APIs REST**, **automações** e **integrações entre sistemas**. Meu critério para tecnologia boa é simples: **economiza tempo, reduz erros e melhora processos.**
 
-## 📊 Dashboard Financeiro Inteligente
+## 🛠 Stack
 
-Sistema para controle financeiro utilizando **OCR + Inteligência Artificial** para leitura automática de comprovantes.
-
-### Tecnologias
-
-- Python
-- Streamlit
-- Pandas
-- OCR
-- APIs de IA
-
----
-
-## 🏭 Automação de Processos de Engenharia
-
-Ferramentas desenvolvidas para otimizar processos internos de engenharia.
-
-### Funcionalidades
-
-- Leitura automática de listas de materiais
-- Integração entre sistemas
-- Geração de orçamentos
-- Padronização de processos
-- Redução de retrabalho
-
----
-
-# 💻 Tech Stack
-
-## Backend
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA / Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## Automação
+**Automação & Dados**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR_%2B_IA-5C2D91?style=for-the-badge&logo=tesseract&logoColor=white)
 
----
+**Embarcados & Linux**
 
-## Ferramentas
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Projetos
+
+| Projeto | O que resolve | Stack |
+| :--- | :--- | :--- |
+| **📊 Dashboard Financeiro Inteligente** | Controle financeiro com leitura automática de comprovantes via OCR + IA | Python · Streamlit · Pandas · OCR |
+| **🏭 Automação de Processos de Engenharia** | Leitura de listas de materiais, geração de orçamentos e integração entre sistemas — menos retrabalho, mais padronização | Python · Pandas · APIs |
+
+## 📌 Estudando agora
+
+`Arquitetura de Software` `Clean Code` `SOLID` `Docker` `Testes automatizados`
 
 ---
 
-# 📚 Atualmente estudando
+<p align="center">⭐ Se algum projeto te for útil, deixe uma estrela e acompanhe minha evolução.</p>
 
-- Java
-- Spring Boot
-- APIs RESTful
-- JPA/Hibernate
-- SQL
-- Docker
-- Arquitetura de Software
-- Clean Code
-- SOLID
-- Automação com Python
-
----
-
-# 🌐 Links
-
-<p align="center">
-
-<a href="https://matribeiro.tech" target="_blank">🌎 Portfólio</a> •
-<a href="https://lypsyos.com" target="_blank">🏢 Lypsyos</a> •
-<a href="https://github.com/zuckalez0-oss" target="_blank">💻 GitHub</a> •
-<a href="https://www.linkedin.com/in/matheus-ribeiro-bbb894237" target="_blank">💼 LinkedIn</a>
-
-</p>
-
----
-
-# 📫 Contato
-
-📧 **E-mail:** [matheusrds@lypsyos.com](mailto:matheusrds@lypsyos.com)
-
----
-
-<div align="center">
-
-### ⭐ Obrigado pela visita!
-
-Se algum projeto chamou sua atenção, deixe uma ⭐ nos repositórios e acompanhe minha evolução como desenvolvedor.
-
-</div>
