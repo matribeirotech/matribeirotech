@@ -34,7 +34,7 @@ Orçamento online de peças cortadas a **laser, plasma e oxicorte** — da geome
 #### 🧩 [Cortex](https://github.com/zuckalez0-oss/cortex) · *web*
 Aproveitamento de chapas guilhotinadas: distribui as peças na chapa e mostra quanto do material foi efetivamente usado.
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Python`
 
 #### 🔩 [Truss Analyzer](https://github.com/zuckalez0-oss/truss-analyzer) · *desktop*
 Analisador de treliças com biblioteca de perfis, exportação em DXF e geração de relatórios. Empacotado como executável Windows.
