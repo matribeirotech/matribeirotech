@@ -1,127 +1,94 @@
-<h1 align="center">Matheus Ribeiro · Zucka</h1>
+# Matheus Ribeiro · `zucka`
 
-<p align="center">
-  <strong>Backend Developer em formação</strong> · Estudante de Engenharia de Software<br>
-  Java &amp; Spring Boot · Automação com Python · Sistemas embarcados
-</p>
+**Desenvolvedor Full Stack Júnior** · Estudante de Engenharia de Software
+Back-end em **Python (FastAPI)** e **Java (Spring Boot)** · Front-end em **React + TypeScript**
 
-<p align="center">
-  <a href="https://matribeiro.tech">🌎 Portfólio</a> •
-  <a href="https://lypsyos.com">🏢 Lypsyos</a> •
-  <a href="https://github.com/zuckalez0-oss">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/matheus-ribeiro-bbb894237">💼 LinkedIn</a> •
-  <a href="mailto:matheusrds@lypsyos.com">📧 E-mail</a>
-</p>
+[![Portfólio](https://img.shields.io/badge/Portfólio-matribeiro.tech-1F4E79?style=flat-square&logo=googlechrome&logoColor=white)](https://matribeiro.tech)
+[![Lypsyos](https://img.shields.io/badge/Lypsyos-lypsyos.com-0F172A?style=flat-square)](https://lypsyos.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ribeiro-bbb894237)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusrds@lypsyos.com)
 
 ---
 
-Construo **APIs REST**, **automações** e **integrações entre sistemas** para engenharia e chão de fábrica. Meu critério para tecnologia boa é simples: **economiza tempo, reduz erros e melhora processos.**
+Construo **APIs REST**, **automações** e **integrações entre sistemas**.
+Meu critério para tecnologia boa é simples: **economiza tempo, reduz erros e melhora processos.**
 
-## 🚀 Projetos
-
-### Engenharia & Produção
-
-#### 🏭 [DBX-V4 Desktop](https://github.com/zuckalez0-oss/dbx-v3-desktop) · *aplicação Windows*
-Sistema integrado para empresas de corte e conformação. Cadastro de peças manual, por Excel, DXF ou JSON; cálculo de aproveitamento; módulo **DBX Bend** para peças dobradas (K-factor, blank planificado, biblioteca de perfis); saída em Excel, PDF e DXF prontos para máquina.
-
-`Python` `PyQt5` `Supabase` `DXF` `Excel` `pytest` `GitHub Actions`
-
-#### 📐 [GeoQuote](https://github.com/zuckalez0-oss/geoquote) · *web*
-Orçamento online de peças cortadas a **laser, plasma e oxicorte** — da geometria ao preço, sem planilha intermediária, com registro dos orçamentos gerados.
-
-`React` `Vite` `JavaScript` `Python` `FastAPI` `Uvicorn`
-
-#### 🧩 [Cortex](https://github.com/zuckalez0-oss/cortex) · *web*
-Aproveitamento de chapas guilhotinadas: distribui as peças na chapa e mostra quanto do material foi efetivamente usado.
-
-`HTML` `CSS` `JavaScript` `Python`
-
-#### 🔩 [Truss Analyzer](https://github.com/zuckalez0-oss/truss-analyzer) · *desktop*
-Analisador de treliças com biblioteca de perfis, exportação em DXF e geração de relatórios. Empacotado como executável Windows.
-
-`Python` `NumPy` `Pandas` `ezdxf` `openpyxl` `PyInstaller`
-
-#### 🧾 [Auto-Material-Engineer](https://github.com/zuckalez0-oss/Auto-Material-Engineer) · *desktop*
-Lê a lista de materiais exportada do MCalc (`.docx`), classifica e normaliza os perfis de aço (Viga W, U, Terça, Cantoneira, Tubo) e preenche automaticamente a planilha padrão de orçamento.
-
-`Python` `Tkinter` `python-docx` `openpyxl`
-
-### Dados & Dashboards
-
-#### ⚡ [EletroFlow](https://github.com/zuckalez0-oss/electro-flow) · *web*
-Gestão de contas de energia e acompanhamento fotovoltaico. Lê a fatura em PDF/imagem com IA, extrai os campos para revisão manual e monta um dashboard com consumo, geração, energia injetada, demanda e saldo acumulado.
-
-`React 19` `TypeScript` `Vite` `Tailwind` `Firebase` `Gemini` `Recharts`
-
-#### 📊 Dashboards Operacionais · *web*
-Painéis em produção com **Google Sheets como banco de dados**: controle de desenhos e orçamentos (laser e plasma) e fila de demandas do marketing — filtros, prioridade, responsável, status e exportação, atualizados ao vivo.
-
-`Google Apps Script` `Google Sheets` `HTML` `JavaScript`
-
-#### 📈 [Dashboard de Vendas](https://github.com/zuckalez0-oss/dashboard-vendas) · *web*
-Total faturado e total carregado em um painel só, com prospecção de clientes por IA — a IA sugere possíveis clientes e os indica no mapa.
-
-`Python` `Groq` `Mapas`
-
-#### 💰 [Dashboard Financeiro Inteligente](https://github.com/zuckalez0-oss/controle-de-financias) · *web*
-Controle financeiro com leitura automática de comprovantes via OCR + IA.
-
-`Python` `Streamlit` `Pandas` `OCR`
+Hoje trabalho em uma indústria metalúrgica desenvolvendo as ferramentas internas que os times comercial e de produção usam todos os dias — o que me obriga a entender o processo antes de escrever a primeira linha de código.
 
 ## 🛠 Stack
 
-**Backend & Dados**
+**Back-end**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-5C2D91?style=flat-square)
+![JPA](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA / Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Front-end**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Automação & Desktop**
+**Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OCR + IA](https://img.shields.io/badge/OCR_%2B_IA-5C2D91?style=for-the-badge&logo=tesseract&logoColor=white)
+**Automação & IA**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-5C2D91?style=flat-square&logo=tesseract&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
 
-**Web**
+**Ferramentas & Infra**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+**Embarcados**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Embarcados & Linux**
+## 🚀 Projetos
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| **Perfilar** *(privado)* | Sistema comercial para distribuidoras de perfis de aço dobrado: editor de perfis, orçamentos, pedidos, precificação e analytics. Back-end modular com autenticação, RBAC, webhooks e integrações. | Svelte 5 · FastAPI · PostgreSQL · Docker |
+| [**DBX-V4 Desktop**](https://github.com/zuckalez0-oss/dbx-v3-desktop) | Orçamento e engenharia para empresas de corte e conformação: entrada de peças por Excel, DXF ou JSON, cálculo de aproveitamento de chapa e saídas em Excel, PDF e DXF prontos para máquina. | Python · PyQt5 · Supabase · Pytest · GitHub Actions |
+| [**EletroFlow**](https://github.com/zuckalez0-oss/electro-flow) | Gestão de contas de energia e acompanhamento fotovoltaico. Extrai os dados das faturas em PDF via IA e monta dashboards de consumo, geração e saldo. | React 19 · TypeScript · Tailwind · Firebase · Recharts |
+| [**GeoQuote**](https://github.com/zuckalez0-oss/geoquote) | Orçamento online de peças cortadas a laser, plasma e oxicorte, com front-end consumindo API REST própria. | React · Vite · Python · FastAPI |
+| [**Dashboard de Vendas**](https://github.com/zuckalez0-oss/dashboard-vendas) | Painel de faturamento e carregamento com prospecção de clientes por IA, indicando oportunidades no mapa. | Python · Groq API |
+| [**Cortex**](https://github.com/zuckalez0-oss/cortex) | Aproveitamento de chapas guilhotinadas direto no navegador. | HTML · JavaScript |
+| [**Dashboard Financeiro**](https://github.com/zuckalez0-oss/controle-de-financias) | Controle financeiro com leitura automática de comprovantes via OCR + IA. | Python · Streamlit · Pandas · OCR |
 
-**Ferramentas**
+## 📈 Impacto em produção
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+As ferramentas acima não ficaram no repositório — rodam no dia a dia de uma indústria:
+
+- **~60% mais orçamentos** processados no mesmo intervalo de tempo depois do DBX-V4.
+- **~27% de otimização** no fluxo do setor comercial e queda na margem de erro das propostas com o editor de perfis automatizado.
 
 ## 📌 Estudando agora
 
-`Arquitetura de Software` `Clean Code` `SOLID` `Docker` `Testes automatizados`
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+`Arquitetura de software` · `Clean Code` · `SOLID` · `Testes automatizados` · `Docker`
 
 ---
 
-<p align="center">⭐ Se algum projeto te for útil, deixe uma estrela e acompanhe minha evolução.</p>
-
+⭐ Se algum projeto te for útil, deixe uma estrela e acompanhe a evolução.
