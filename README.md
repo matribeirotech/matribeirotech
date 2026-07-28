@@ -82,12 +82,21 @@ As ferramentas acima não ficaram no repositório — rodam no dia a dia de uma 
 - **~60% mais orçamentos** processados no mesmo intervalo de tempo depois do DBX-V4.
 - **~27% de otimização** no fluxo do setor comercial e queda na margem de erro das propostas com o editor de perfis automatizado.
 
-## 📌 Estudando agora
+## 📌 Estudando agora — Next.js + Postgres
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+Plano de 13 semanas para construir uma aplicação full stack completa, do zero ao deploy, aprendendo em público.
 
-`Arquitetura de software` · `Clean Code` · `SOLID` · `Testes automatizados` · `Docker`
+**Stack:** Next.js 16 (App Router) · TypeScript · PostgreSQL · Drizzle ORM · Zod · Better Auth · Tailwind + shadcn/ui · Vercel · Vitest + Playwright
+
+| Fase | Foco | Status |
+|---|---|---|
+| **Mês 1** — Fundação | App Router, Server Components, Drizzle + Postgres, Server Actions, autenticação | 🔲 |
+| **Mês 2** — Projeto | Sistema de apontamento de produção: máquinas, ordens, paradas, dashboard de OEE, endpoint para coletor externo | 🔲 |
+| **Mês 3** — Consolidação | Testes, CI, documentação e deploy com dados demo | 🔲 |
+
+Anotações e exercícios ficam nos repositórios com prefixo `estudos-` e `poc-`.
+
+Base contínua: `Java 17/21` · `Spring Boot` · `Spring Security` · `Arquitetura de software` · `Clean Code` · `SOLID`
 
 ---
 
