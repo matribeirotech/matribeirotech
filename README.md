@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá! Sou Matheus Ribeiro 🧑‍💻</h1>
   <p><strong>Desenvolvedor Full Stack</strong> | <strong>Estudante de Engenharia de Software</strong></p>
-  <p><i>Construindo sistemas escaláveis e tentando impedir meu gato de desligar o servidor.</i></p>
+
 
   <a href="https://matribeiro.tech"><img src="https://img.shields.io/badge/Portfólio-matribeiro.tech-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/matheus-ribeiro-bbb894237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
