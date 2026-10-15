@@ -8,8 +8,10 @@
 </div>
 
 <br>
-https://github-readme-stats.vercel.app/api?username=matribeirotech&show_icons=true&count_private=true&include_all_commits=true&theme=dark&title_color=6bb00b&icon_color=6bb00b&border_color=3d3d3d)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudu671&layout=compact&theme=dark&title_color=6bb00b&icon_color=6bb00b&border_color=3d3d3d)](https://github.com/anuraghazra/github-readme-stats
+[![Status do GitHub](https://github-readme-stats.vercel.app/api?username=matribeirotech&show_icons=true&count_private=true&include_all_commits=true&theme=dark&title_color=6bb00b&icon_color=6bb00b&border_color=3d3d3d)](https://github.com/matribeirotech)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matribeirotech&layout=compact&theme=dark&title_color=6bb00b&icon_color=6bb00b&border_color=3d3d3d)](https://github.com/matribeirotech)
+
 
 ### 🛠️ Minha Stack
 <p align="center">
