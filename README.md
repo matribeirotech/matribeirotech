@@ -31,11 +31,11 @@ Acredito que a boa tecnologia é aquela que elimina gargalos invisíveis do dia 
 
 <div align="center">
   <a href="https://www.lypsyos.com/">
-    <img src="./assets/novo-logo-lypsyos-r1.jpeg" alt="Lypsyos Logo" height="110" />
+    <img src="./assets/novo-logo-lypsyos-r1.svg" alt="Lypsyos Logo" height="110" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.lypsyos.com/">
-    <img src="./assets/logo-lypsyos-zenda-r1.jpg" alt="Zenda by Lypsyos Logo" height="110" />
+    <img src="./assets/logo-lypsyos-zenda-r1.svg" alt="Zenda by Lypsyos Logo" height="110" />
   </a>
 </div>
 
