@@ -1,100 +1,96 @@
 <div align="center">
-  <h1>Olá! Sou Matheus Ribeiro 🧑‍💻</h1>
+  <h1>Olá! Sou Matheus Ribeiro</h1>
   <p>
-    <strong>Desenvolvedor Full Stack</strong> • 
-    <strong>Engenharia de Software</strong> • 
-    <strong>Founder & Lead Dev @ <a href="https://www.lypsyos.com/">Lypsyos</a></strong>
+    <strong>Engenharia de Software</strong> •
+    <strong>Back-end (Java & Python)</strong> •
+    <strong>Automação Industrial & Embarcados (ESP32)</strong> •
+    <strong>Cibersegurança (SOC / Redes)</strong>
   </p>
-  <p><em>Construindo sistemas inteligentes, arquiteturas SaaS multitenant e automações de alta velocidade que transformam operações reais.</em></p>
+  <p><em>Construindo back-ends sólidos, pipelines de automação de engenharia, telemetria em hardware embarcado e ambientes seguros.</em></p>
 
-  <a href="https://matribeiro.tech"><img src="https://img.shields.io/badge/Portfólio-matribeiro.tech-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
-  <a href="https://www.lypsyos.com/"><img src="https://img.shields.io/badge/Lypsyos-lypsyos.com-00A896?style=for-the-badge&logo=rocket&logoColor=white" alt="Lypsyos"></a>
-  <a href="https://www.linkedin.com/in/matheus-ribeiro-bbb894237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:z1p0l0ck@pm.me"><img src="https://img.shields.io/badge/E--mail-z1p0l0ck@pm.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://matribeiro.tech"><img src="https://img.shields.io/badge/Portfólio-matribeiro.tech-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/matheus-ribeiro-bbb894237"><img src="https://img.shields.io/badge/LinkedIn-Matheus_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:z1p0l0ck@pm.me"><img src="https://img.shields.io/badge/Proton_Mail-z1p0l0ck@pm.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="E-mail"></a>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software** e **Desenvolvedor Full Stack** focado em unir engenharia de back-end robusta (**Python/FastAPI** e **Java/Spring Boot**) com interfaces rápidas, intuitivas e orientadas à experiência do usuário (**React** e **TypeScript**).
+Estudante de **Engenharia de Software** com vivência prática em engenharia, PCP e chão de fábrica — hoje focado em transformar problemas operacionais complexos em software confiável, seguro e automatizado.
 
-Acredito que a boa tecnologia é aquela que elimina gargalos invisíveis do dia a dia. Por isso, além de projetos de engenharia e arquitetura de software, estou à frente da **[Lypsyos](https://www.lypsyos.com/)**, desenvolvendo plataformas digitais em nuvem, sistemas de gestão descomplicados e automações inteligentes de atendimento e agendamento.
+Meu trabalho transita do **back-end escalável** (**Java/Spring Boot** e **Python/FastAPI**) à **automação de engenharia em lote (CAD/DXF)**, passando por **sistemas embarcados com ESP32** e estudos contínuos em **operações de cibersegurança (Blue Team / SOC)**.
 
-- 🚀 **Atualmente focado em:** Arquitetura SaaS Multi-tenant, Microsserviços de Mensageria em Tempo Real (WebSockets), PWAs e Automação Comercial.
-- 🏗️ **Especialidades:** Desenvolvimento de APIs RESTful de alta performance, modelagem de bancos de dados relacionais com isolamento de segurança (RLS) e interfaces Mobile-First.
-- 💡 **Filosofia de Produto:** Código limpo no back-end, zero burocracia para o usuário final na ponta.
-
----
-
-### 🚀 Em Destaque: Lypsyos & Ecossistema Zenda
-
-<div align="center">
-  <a href="https://www.lypsyos.com/">
-    <img src="./assets/novo-logo-lypsyos-r1.png" alt="Lypsyos Logo" height="110" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.lypsyos.com/">
-    <img src="./assets/logo-lypsyos-zenda-r1.svg" alt="Zenda by Lypsyos Logo" height="110" />
-  </a>
-</div>
-
-<br>
-
-A **[Lypsyos](https://www.lypsyos.com/)** é uma iniciativa de tecnologia voltada à criação de sistemas inteligentes, CRMs visuais e automações sob medida para negócios que buscam eliminar tarefas manuais, responder clientes em segundos e ter previsibilidade financeira.
-
-#### ⚡ [Zenda by Lypsyos](https://www.lypsyos.com/) — CRM de Agendamentos & Robô WhatsApp 24/7
-Produto oficial desenvolvido para operar como um gerente virtual 24 horas por dia em negócios baseados em agendamento e recorrência:
-
-* 🤖 **Mensageria Inteligente & Robô 24/7:** Microsserviços de alta velocidade com **WebSockets** e URA intuitiva capaz de responder clientes em ~2 segundos e concluir agendamentos em menos de 1 minuto.
-* 📊 **Central CRM 3-em-1:** Painel de gestão modular com visualização em **Cartões, Lista Cronológica ou Tabela**, cálculo de faturamento diário em tempo real e motor *Zero Double-Booking* (verificação de conflitos de agenda em milissegundos).
-* 📱 **Arquitetura Mobile-First (PWA Nativo):** Aplicação web progressiva instalável com 1 clique no Android ou iOS, equipada com notificações Push proativas e sincronização com Google Calendar.
-* 🛡️ **Lypsyos Security Guard:** Infraestrutura em nuvem de alta disponibilidade com isolamento multitenant estrito via **Supabase RLS (Row-Level Security)**, criptografia ponta a ponta e proteção anti-bot.
+- 🎯 **Foco atual:** Desenvolvimento Back-end com **Java/Spring Boot** e **Python**, operações **SOC** com **Wazuh SIEM**, análise de logs e fundamentos de redes.
+- ⚙️ **Automação & Engenharia:** Pipelines em **Python + `ezdxf`** para processamento em lote de arquivos técnicos (DXF/PDF), filtragem geométrica e aceleração de orçamentação industrial.
+- 🔌 **Hardware & Embarcados:** Projetos open-source em **ESP32 / CYD (Cheap Yellow Display)** integrando telemetria de sistema, comunicação serial, **FreeRTOS** e **ESP-NOW**.
+- 🛡️ **Mentalidade de Engenharia:** Código limpo, ambientes isolados, redes seguras (**Tailscale** / Linux hardening) e zero trabalho manual repetitivo.
 
 ---
 
-### 🛠️ Minha Stack & Ferramentas
+### 🚀 Projetos & Frentes em Destaque
 
-#### Back-end & Arquitetura de Sistemas
+| Projeto / Frente | Descrição & Tecnologias |
+| :--- | :--- |
+| **[🖥️ CYD Hardware Monitor](https://github.com/matribeirotech/monitor-cyd-resources)** | Monitor de telemetria e recursos de hardware open-source para **ESP32 Cheap Yellow Display (CYD)**, com leitura de métricas em tempo real via comunicação serial e interface embarcada otimizada. |
+| **📐 Automação CAD & Pipelines DXF/PDF** | Suíte em **Python** e **`ezdxf`** para filtragem automática de peças em chapa metálica, padronização e renomeação em lote de pares DXF/PDF e automação de fluxos de engenharia e orçamentação. |
+| **🌐 GeoQuote & Aplicações Web Full Stack** | Sistemas web em produção com autenticação segura (**Supabase**), back-end estruturado, interface responsiva (**React + TypeScript**) e deploy em **VPS Linux (DigitalOcean / Docker)**. |
+| **🛡️ Lab de Cibersegurança (SOC & Redes)** | Ambiente prático focado em segurança defensiva: monitoramento e correlação de logs com **Wazuh SIEM**, análise de tráfego e redes, hardening Linux e pesquisa em segurança de embarcados em sandbox. |
+
+---
+
+### 🛠️ Stack & Ferramentas
+
+#### Back-end & Automação
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
-#### Front-end & Mobile (PWA)
+#### Front-end
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
 
-#### Banco de Dados, Cloud & DevOps
+#### Cibersegurança, Infraestrutura & Dados
 <p align="left">
+  <img src="https://img.shields.io/badge/Wazuh_SIEM-00A9E5?style=for-the-badge&logoColor=white" alt="Wazuh SIEM">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+#### Sistemas Embarcados & IoT
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO">
+  <img src="https://img.shields.io/badge/FreeRTOS-222222?style=for-the-badge&logoColor=white" alt="FreeRTOS">
 </p>
 
 ---
 
 ### ⚙️ O Que Eu Construo
 
-| Área de Atuação | Soluções Entregues |
+| Área | Entregas & Aplicações |
 | :--- | :--- |
-| **Plataformas SaaS & CRMs** | Sistemas de gestão visual, controle de estoque/ordens de serviço, painéis financeiros em tempo real e ambientes multi-empresa (Multi-tenant). |
-| **Automação & Mensageria** | Bots de atendimento e agendamento no WhatsApp, triagem inteligente (URA), alertas automáticos e integrações via Webhook/WebSocket. |
-| **APIs & Microsserviços** | Back-ends escaláveis em **FastAPI** e **Spring Boot**, autenticação segura (JWT/OAuth2), geração de relatórios em PDF e integração entre sistemas. |
-| **Aplicações Web & PWA** | Interfaces responsivas em **React + TypeScript** desenhadas para uso rápido no balcão ou no celular, sem fricção de aprendizado. |
+| **Back-end & APIs** | Serviços RESTful em **Java (Spring Boot)** e **Python (FastAPI)**, modelagem relacional com PostgreSQL/Supabase, autenticação segura e integração entre sistemas. |
+| **Automação Industrial & Scripts** | Processamento em lote de arquivos CAD (`DXF`/`PDF`), extração de dados técnicos, geração de relatórios e eliminação de gargalos operacionais. |
+| **Cibersegurança & Infra** | Monitoramento de logs com **Wazuh SIEM**, deploy containerizado em Linux/VPS, redes mesh privadas com **Tailscale** e práticas de segurança defensiva. |
+| **Embarcados & Telemetria** | Dashboards físicos de hardware com **ESP32/CYD**, prototipagem IoT, comunicação serial/ESP-NOW e integração entre firmware e aplicações desktop. |
 
 ---
 
-### 📊 Estatísticas e Atividade no GitHub
+### 📊 Atividade no GitHub
 
 <div align="center">
   <a href="https://github.com/matribeirotech">
@@ -109,9 +105,8 @@ Produto oficial desenvolvido para operar como um gerente virtual 24 horas por di
 
 ### 🤝 Vamos Conversar?
 
-Seja para trocar ideias sobre arquitetura de software, discutir oportunidades como Desenvolvedor Full Stack ou conhecer as soluções de automação e sistemas sob medida da **Lypsyos**:
+Aberto para oportunidades em **Desenvolvimento Back-end / Full Stack**, projetos de **Automação** e trocas técnicas sobre **Cibersegurança** e **Sistemas Embarcados**:
 
-- 🌐 **Portfólio Pessoal:** [matribeiro.tech](https://matribeiro.tech)
-- 🚀 **Soluções & Produto Zenda:** [lypsyos.com](https://www.lypsyos.com/)
+- 🌐 **Portfólio:** [matribeiro.tech](https://matribeiro.tech)
 - 💼 **LinkedIn:** [Matheus Ribeiro](https://www.linkedin.com/in/matheus-ribeiro-bbb894237)
 - 📫 **E-mail:** [z1p0l0ck@pm.me](mailto:z1p0l0ck@pm.me)
