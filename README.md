@@ -1,47 +1,47 @@
 <div align="center">
-  <h1>Olá! Sou Matheus Ribeiro</h1>
+  <h1>Hi! I'm Matheus Ribeiro</h1>
   <p>
-    <strong>Engenharia de Software</strong> •
+    <strong>Software Engineering</strong> •
     <strong>Back-end (Java & Python)</strong> •
-    <strong>Automação Industrial & Embarcados (ESP32)</strong> •
-    <strong>Cibersegurança (SOC / Redes)</strong>
+    <strong>Industrial Automation & Embedded Systems (ESP32)</strong> •
+    <strong>Cybersecurity (SOC / Networking)</strong>
   </p>
-  <p><em>Construindo back-ends sólidos, pipelines de automação de engenharia, telemetria em hardware embarcado e ambientes seguros.</em></p>
+  <p><em>Building solid back-ends, engineering automation pipelines, embedded hardware telemetry, and secure environments.</em></p>
 
-  <a href="https://matribeiro.tech"><img src="https://img.shields.io/badge/Portfólio-matribeiro.tech-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfólio"></a>
+  <a href="https://matribeiro.tech"><img src="https://img.shields.io/badge/Portfolio-matribeiro.tech-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/matheus-ribeiro-bbb894237"><img src="https://img.shields.io/badge/LinkedIn-Matheus_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:z1p0l0ck@pm.me"><img src="https://img.shields.io/badge/Proton_Mail-z1p0l0ck@pm.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:z1p0l0ck@pm.me"><img src="https://img.shields.io/badge/Proton_Mail-z1p0l0ck@pm.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Estudante de **Engenharia de Software** com vivência prática em engenharia, PCP e chão de fábrica — hoje focado em transformar problemas operacionais complexos em software confiável, seguro e automatizado.
+**Software Engineering** student with hands-on experience in engineering, production planning & control (PPC), and shop-floor operations — currently focused on turning complex operational problems into reliable, secure, and automated software.
 
-Meu trabalho transita do **back-end escalável** (**Java/Spring Boot** e **Python/FastAPI**) à **automação de engenharia em lote (CAD/DXF)**, passando por **sistemas embarcados com ESP32** e estudos contínuos em **operações de cibersegurança (Blue Team / SOC)**.
+My work spans from **scalable back-ends** (**Java/Spring Boot** and **Python/FastAPI**) to **batch engineering automation (CAD/DXF)**, alongside **ESP32 embedded systems** and ongoing studies in **cybersecurity operations (Blue Team / SOC)**.
 
-- 🎯 **Foco atual:** Desenvolvimento Back-end com **Java/Spring Boot** e **Python**, operações **SOC** com **Wazuh SIEM**, análise de logs e fundamentos de redes.
-- ⚙️ **Automação & Engenharia:** Pipelines em **Python + `ezdxf`** para processamento em lote de arquivos técnicos (DXF/PDF), filtragem geométrica e aceleração de orçamentação industrial.
-- 🔌 **Hardware & Embarcados:** Projetos open-source em **ESP32 / CYD (Cheap Yellow Display)** integrando telemetria de sistema, comunicação serial, **FreeRTOS** e **ESP-NOW**.
-- 🛡️ **Mentalidade de Engenharia:** Código limpo, ambientes isolados, redes seguras (**Tailscale** / Linux hardening) e zero trabalho manual repetitivo.
+- 🎯 **Current Focus:** Back-end development with **Java/Spring Boot** and **Python**, **SOC** operations with **Wazuh SIEM**, log analysis, and networking fundamentals.
+- ⚙️ **Automation & Engineering:** **Python + `ezdxf`** pipelines for batch processing technical files (DXF/PDF), geometric filtering, and accelerating industrial quoting workflows.
+- 🔌 **Hardware & Embedded:** Open-source **ESP32 / CYD (Cheap Yellow Display)** projects integrating system telemetry, serial communication, **FreeRTOS**, and **ESP-NOW**.
+- 🛡️ **Engineering Mindset:** Clean code, isolated environments, secure networking (**Tailscale** / Linux hardening), and zero repetitive manual work.
 
 ---
 
-### 🚀 Projetos & Frentes em Destaque
+### 🚀 Featured Projects & Initiatives
 
-| Projeto / Frente | Descrição & Tecnologias |
+| Project / Initiative | Description & Tech Stack |
 | :--- | :--- |
-| **[🖥️ CYD Hardware Monitor](https://github.com/matribeirotech/monitor-cyd-resources)** | Monitor de telemetria e recursos de hardware open-source para **ESP32 Cheap Yellow Display (CYD)**, com leitura de métricas em tempo real via comunicação serial e interface embarcada otimizada. |
-| **📐 Automação CAD & Pipelines DXF/PDF** | Suíte em **Python** e **`ezdxf`** para filtragem automática de peças em chapa metálica, padronização e renomeação em lote de pares DXF/PDF e automação de fluxos de engenharia e orçamentação. |
-| **🌐 GeoQuote & Aplicações Web Full Stack** | Sistemas web em produção com autenticação segura (**Supabase**), back-end estruturado, interface responsiva (**React + TypeScript**) e deploy em **VPS Linux (DigitalOcean / Docker)**. |
-| **🛡️ Lab de Cibersegurança (SOC & Redes)** | Ambiente prático focado em segurança defensiva: monitoramento e correlação de logs com **Wazuh SIEM**, análise de tráfego e redes, hardening Linux e pesquisa em segurança de embarcados em sandbox. |
+| **[🖥️ CYD Hardware Monitor](https://github.com/matribeirotech/monitor-cyd-resources)** | Open-source hardware telemetry and resource monitor for **ESP32 Cheap Yellow Display (CYD)**, featuring real-time metrics over serial communication and an optimized embedded UI. |
+| **📐 CAD Automation & DXF/PDF Pipelines** | **Python** and **`ezdxf`** suite for automated sheet-metal part filtering, batch standardization and renaming of DXF/PDF pairs, and engineering/quoting workflow automation. |
+| **🌐 GeoQuote & Full Stack Web Applications** | Production web systems with secure authentication (**Supabase**), structured back-ends, responsive interfaces (**React + TypeScript**), and deployment on **Linux VPS (DigitalOcean / Docker)**. |
+| **🛡️ Cybersecurity Lab (SOC & Networking)** | Hands-on environment focused on defensive security: log monitoring and correlation with **Wazuh SIEM**, network traffic analysis, Linux hardening, and sandboxed embedded security research. |
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 
-#### Back-end & Automação
+#### Back-end & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
@@ -57,7 +57,7 @@ Meu trabalho transita do **back-end escalável** (**Java/Spring Boot** e **Pytho
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
 
-#### Cibersegurança, Infraestrutura & Dados
+#### Cybersecurity, Infrastructure & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Wazuh_SIEM-00A9E5?style=for-the-badge&logoColor=white" alt="Wazuh SIEM">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -69,7 +69,7 @@ Meu trabalho transita do **back-end escalável** (**Java/Spring Boot** e **Pytho
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-#### Sistemas Embarcados & IoT
+#### Embedded Systems & IoT
 <p align="left">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -79,34 +79,34 @@ Meu trabalho transita do **back-end escalável** (**Java/Spring Boot** e **Pytho
 
 ---
 
-### ⚙️ O Que Eu Construo
+### ⚙️ What I Build
 
-| Área | Entregas & Aplicações |
+| Area | Deliverables & Applications |
 | :--- | :--- |
-| **Back-end & APIs** | Serviços RESTful em **Java (Spring Boot)** e **Python (FastAPI)**, modelagem relacional com PostgreSQL/Supabase, autenticação segura e integração entre sistemas. |
-| **Automação Industrial & Scripts** | Processamento em lote de arquivos CAD (`DXF`/`PDF`), extração de dados técnicos, geração de relatórios e eliminação de gargalos operacionais. |
-| **Cibersegurança & Infra** | Monitoramento de logs com **Wazuh SIEM**, deploy containerizado em Linux/VPS, redes mesh privadas com **Tailscale** e práticas de segurança defensiva. |
-| **Embarcados & Telemetria** | Dashboards físicos de hardware com **ESP32/CYD**, prototipagem IoT, comunicação serial/ESP-NOW e integração entre firmware e aplicações desktop. |
+| **Back-end & APIs** | RESTful services in **Java (Spring Boot)** and **Python (FastAPI)**, relational modeling with PostgreSQL/Supabase, secure authentication, and system integrations. |
+| **Industrial Automation & Scripting** | Batch processing of CAD files (`DXF`/`PDF`), technical data extraction, automated reporting, and elimination of operational bottlenecks. |
+| **Cybersecurity & Infrastructure** | Log monitoring with **Wazuh SIEM**, containerized deployments on Linux/VPS, private mesh networks with **Tailscale**, and defensive security practices. |
+| **Embedded & Telemetry** | Physical hardware dashboards with **ESP32/CYD**, IoT prototyping, serial/ESP-NOW communication, and firmware-to-desktop application integration. |
 
 ---
 
-### 📊 Atividade no GitHub
+### 📊 GitHub Activity
 
 <div align="center">
   <a href="https://github.com/matribeirotech">
     <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=matribeirotech&theme=dark&title_color=6bb00b&icon_color=6bb00b&border_color=3d3d3d" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/matribeirotech">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matribeirotech&layout=compact&theme=dark&title_color=6bb00b&icon_color=6bb00b&border_color=3d3d3d" alt="Linguagens Mais Usadas" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matribeirotech&layout=compact&theme=dark&title_color=6bb00b&icon_color=6bb00b&border_color=3d3d3d" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
-### 🤝 Vamos Conversar?
+### 🤝 Let's Connect
 
-Aberto para oportunidades em **Desenvolvimento Back-end / Full Stack**, projetos de **Automação** e trocas técnicas sobre **Cibersegurança** e **Sistemas Embarcados**:
+Open to opportunities in **Back-end / Full Stack Development**, **Automation** projects, and technical discussions around **Cybersecurity** and **Embedded Systems**:
 
-- 🌐 **Portfólio:** [matribeiro.tech](https://matribeiro.tech)
+- 🌐 **Portfolio:** [matribeiro.tech](https://matribeiro.tech)
 - 💼 **LinkedIn:** [Matheus Ribeiro](https://www.linkedin.com/in/matheus-ribeiro-bbb894237)
-- 📫 **E-mail:** [z1p0l0ck@pm.me](mailto:z1p0l0ck@pm.me)
+- 📫 **Email:** [z1p0l0ck@pm.me](mailto:z1p0l0ck@pm.me)
